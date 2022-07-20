@@ -2,4 +2,4 @@ Steak
 Salade
 Tomate
 Cornichon
-Fromage
+Cheddar
