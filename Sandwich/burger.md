@@ -1,8 +1,9 @@
 Steak
 Pain
-Crocnichon
+Cornichon
 Tomates
 Salade
 Fromage
 Sauce
-Comcombre
+Concombre
+Sesame

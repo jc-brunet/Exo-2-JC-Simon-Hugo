@@ -1,0 +1,3 @@
+jambon
+baguette
+beurre
